@@ -1,6 +1,5 @@
 # 💫 Sobre mi:
-🔭 Mi nombre es Sofía, tengo 21 años y actualmente estoy en último año de Ingeniería<br>en Informática.<br>
-
+🔭 Mi nombre es Sofía, tengo 22 años y soy Ingeniera en Informática titulada.
 
 ## 🌐 Redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sofax._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sjaraalvarez) 
